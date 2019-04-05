@@ -3,6 +3,14 @@
 
 ---
 
+#### 코워킹
+- 구글 캠퍼스
+- SW Maestro 센터
+- 디캠프
+
+#### 상반기 처리 이슈
+- [이커머스 오픈을 위한 사전 준비](https://github.com/myungjaeyu/my-nomad/projects/12)
+
 #### 현재 주요 이슈
 - [개인사업자/통신판매업 등록 TF](https://github.com/myungjaeyu/my-nomad/projects/2)
 - [인스타그램 마케팅툴 서비스 오픈](https://github.com/myungjaeyu/my-nomad/projects/10)
