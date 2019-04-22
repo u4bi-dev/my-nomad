@@ -30,8 +30,6 @@
 
 - [4월 넷째 주 스프린트(책)](https://github.com/myungjaeyu/my-nomad/projects/26)
 
-- [4월 넷째 주 스프린트(개발)](https://github.com/myungjaeyu/my-nomad/projects/23)
-
 - [4월 넷째 주 스프린트(생활)](https://github.com/myungjaeyu/my-nomad/projects/24)
 
 - [4월 넷째 주 스프린트(위생)](https://github.com/myungjaeyu/my-nomad/projects/22)
