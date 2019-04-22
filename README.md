@@ -12,6 +12,7 @@
 - [이커머스 오픈을 위한 사전 준비](https://github.com/myungjaeyu/my-nomad/projects/12)
 
 #### 현재 주요 이슈
+- [파손으로 인한 개발기기 부재 이슈](https://github.com/myungjaeyu/my-nomad/projects/27)
 
 #### 처리된 이슈
 - [개인사업자/통신판매업 등록 TF](https://github.com/myungjaeyu/my-nomad/projects/2)
