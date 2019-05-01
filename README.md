@@ -26,6 +26,10 @@
 매주 일요일 밤 저녁 잠들기전은 스프린트 회고의 날.
 ```
 
+#### 5월 첫째 주
+
+- [5월 첫째 주 스프린트(책)](https://github.com/myungjaeyu/my-nomad/projects/29)
+
 #### 4월 넷째 주
 
 - [4월 넷째 주 스프린트(책)](https://github.com/myungjaeyu/my-nomad/projects/26)
