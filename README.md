@@ -22,6 +22,14 @@
 매주 일요일 밤 저녁 잠들기전은 스프린트 회고의 날.
 ```
 
+#### 5월 둘째 주
+
+- [5월 둘째 주 스프린트(개발)](https://github.com/myungjaeyu/my-nomad/projects/30)
+
+- [5월 둘째 주 스프린트(생활)](https://github.com/myungjaeyu/my-nomad/projects/31)
+
+- [5월 둘째 주 스프린트(위생)](https://github.com/myungjaeyu/my-nomad/projects/32)
+
 #### 5월 첫째 주
 
 - [5월 첫째 주 스프린트(책)](https://github.com/myungjaeyu/my-nomad/projects/29)
