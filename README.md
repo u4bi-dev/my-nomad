@@ -8,6 +8,7 @@
 - 디캠프
 
 #### 현재 주요 이슈
+- [맥북 개발환경 구성](https://github.com/myungjaeyu/my-nomad/projects/33)
 
 #### 처리된 이슈
 - [파손으로 인한 개발기기 부재 이슈](https://github.com/myungjaeyu/my-nomad/projects/27)
