@@ -8,9 +8,9 @@
 - 디캠프
 
 #### 현재 주요 이슈
-- [맥북 개발환경 구성](https://github.com/myungjaeyu/my-nomad/projects/33)
 
 #### 처리된 이슈
+- [맥북 개발환경 구성](https://github.com/myungjaeyu/my-nomad/projects/33)
 - [파손으로 인한 개발기기 부재 이슈](https://github.com/myungjaeyu/my-nomad/projects/27)
 - [개인사업자/통신판매업 등록 TF](https://github.com/myungjaeyu/my-nomad/projects/2)
 - [인스타그램 마케팅툴 서비스 오픈](https://github.com/myungjaeyu/my-nomad/projects/10)
